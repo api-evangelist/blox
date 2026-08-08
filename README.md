@@ -42,5 +42,8 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Blox is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
+BLOX is a Bessemer, Alabama design-manufacture-construct (DMC) company that describes itself as the largest manufacturer of healthcare buildings in the United States. Founded in 2010-2011 as a spinoff of Giattina Aycock Architecture Studio by Chris Giattina, BLOX designs, prefabricates and installs modular medical buildings and building components — freestanding emergency departments, acute-care patient-room modules, primary-care clinics and full hospitals. Customers include HCA Healthcare, Encompass Health, Universal Health Services and Walmart Health. BLOX publishes no developer program, no public API, and no machine-readable specification; its software work is internal tooling for the DMC delivery system rather than a product.
+
+- https://www.bloxbuilt.com/
+- https://github.com/BLOXBuilt
 - https://forgeglobal.com/blox_stock/
