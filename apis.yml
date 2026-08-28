@@ -12,6 +12,17 @@ description: 'BLOX is a Bessemer, Alabama design-manufacture-construct (DMC) com
   publishes no developer program, no public API, and no machine-readable specification;
   its software work is internal tooling for the DMC delivery system rather than a product.'
 url: https://raw.githubusercontent.com/api-evangelist/blox/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 image: https://avatars.githubusercontent.com/u/22823827?v=4
 x-type: company
 x-source: harvest:secondary-market
